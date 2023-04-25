@@ -5,9 +5,9 @@ import time
 import pytz
 
 app = Client("EenaduPapers",
-             api_id=5540967,
-             api_hash="eedf0196b0533f361b51b5b7082358e9",
-             bot_token="6122593440:AAHUbLp73slAwbGON7U3cnlv8kYwIhurpLM",
+             api_id=23933217,
+             api_hash="9295ff05232442f3dbb48beb8698b5ed",
+             bot_token="6044902922:AAE9EaEHAt80YUWEvvy74rU0JzL8KdaUXRs",
              workers=50,
              max_concurrent_transmissions=20
              )
